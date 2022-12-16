@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Celebration",
+			"party2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Real sleep",
+			"realsleep",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Abduction",
+			"pumpkinrabbit",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"null",
+		"bf",
+		"gf"
+	],
+	"storyName": "...",
+	"weekName": "WeekDemo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
